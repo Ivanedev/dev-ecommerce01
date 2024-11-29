@@ -6,7 +6,7 @@ Projeto desenvolvido atráves de um bootcamp pela universidade nove de julho. <b
 <br>
 
 <p align="center">
-  <img alt="dev" src="preview.jpg" width="100%">
+  <img alt="dev" src="preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
