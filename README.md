@@ -30,6 +30,9 @@ O Allin One é um site e-commerce para acesso dos clientes virtualmente.
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/proto/eEYN9d8CexRm8imljCGJ5g/Untitled?node-id=1-1032&node-type=canvas&t=DkfrwJQI7hM02hFz-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A1032). use sua conta [Figma](https://figma.com) para acessá-lo.
 
+E abaixo você pode visualizar nosso diagrama de entidade e relacionamento (DER) do site.
+  <img alt="dev" src="Diagrama de Entidade Relacionamento (DER).png" width="100%">
+
 
 ---
 
