@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Allin One é um site e-commerce para acesso dos clientes virtualmente.
 
-- [Acesse o projeto finalizado, online](https://github.com/Ivanedev/dev-ecommerce)
+- [Acesse o projeto finalizado, online](https://github.com/Ivanedev/dev-ecommerce01)
 
 
 ## 🔖 Layout
